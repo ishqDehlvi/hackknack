@@ -1,0 +1,47 @@
+.property1mobileChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-floralwhite-100);
+}
+.knack {
+  color: var(--fg);
+}
+.hackknackTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.hackknack {
+  position: absolute;
+  width: 33.72%;
+  top: 34.19%;
+  left: 9.3%;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+}
+.vectorIcon {
+  position: absolute;
+  height: 22.22%;
+  width: 6.98%;
+  top: 38.46%;
+  right: 9.3%;
+  bottom: 39.32%;
+  left: 83.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property1mobile {
+  backdrop-filter: blur(4px);
+  width: 430px;
+  height: 117px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--orange-dark);
+  font-family: var(--font-poppins);
+}

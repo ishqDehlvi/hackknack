@@ -1,0 +1,158 @@
+.property1variant2Child {
+  margin: 0;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-floralwhite-100);
+}
+.knack {
+  color: var(--fg);
+}
+.hackknack {
+  position: absolute;
+  top: 29.06%;
+  left: 4.17%;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  font-family: var(--font-poppins);
+  text-align: center;
+  color: var(--orange-dark);
+}
+.vectorIcon {
+  position: absolute;
+  height: 51.28%;
+  width: 51.28%;
+  top: 23.08%;
+  right: 23.08%;
+  bottom: 25.64%;
+  left: 25.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 2.5px solid var(--orange-dark);
+  box-sizing: border-box;
+}
+.vectorParent {
+  position: absolute;
+  height: 33.33%;
+  width: 2.71%;
+  top: 33.33%;
+  right: 16.18%;
+  bottom: 33.33%;
+  left: 81.11%;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 2.5px solid var(--orange-dark);
+  box-sizing: border-box;
+  width: 141px;
+  height: 39px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 40.77%;
+  width: 12.48%;
+  top: 28.21%;
+  right: 77.59%;
+  bottom: 31.03%;
+  left: 9.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.getInTouch {
+  position: absolute;
+  top: 10px;
+  left: 37px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 93px;
+  height: 17px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 39px;
+  left: 1232px;
+  width: 141px;
+  height: 39px;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--orange-dark);
+}
+.div,
+.home {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+}
+.div {
+  left: 0;
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.01em;
+  color: var(--orange-dark);
+  text-align: center;
+}
+.groupInner,
+.homeParent {
+  position: absolute;
+  top: 47px;
+  left: 797px;
+  width: 58px;
+  height: 22px;
+}
+.groupInner {
+  top: 22px;
+  left: 13px;
+  background-color: var(--orange-dark);
+  width: 67px;
+  height: 2px;
+}
+.aboutUsParent {
+  position: absolute;
+  top: 46px;
+  left: 880px;
+  width: 81px;
+  height: 24px;
+}
+.contactParent,
+.tracksParent {
+  position: absolute;
+  top: 47px;
+  left: 986px;
+  width: 61px;
+  height: 22px;
+}
+.contactParent {
+  left: 1072px;
+  width: 71px;
+}
+.property1variant2 {
+  backdrop-filter: blur(4px);
+  width: 1440px;
+  height: 117px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--fg);
+  font-family: var(--font-open-sans);
+}

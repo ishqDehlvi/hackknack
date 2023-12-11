@@ -1,0 +1,265 @@
+.desktop1Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--bg);
+  width: 1440px;
+  height: 1001px;
+}
+.desktop1Item {
+  position: absolute;
+  top: 0;
+  left: 358px;
+  width: 1082px;
+  height: 1024px;
+}
+.delhiTechnicalCampus {
+  color: var(--fg);
+}
+.poweredByDelhiContainer {
+  position: absolute;
+  top: 264px;
+  left: 140px;
+  letter-spacing: 0.02em;
+  color: var(--orange-dark);
+}
+.february {
+  top: 10px;
+  left: 49px;
+  letter-spacing: 0.02em;
+}
+.dates,
+.february,
+.teach {
+  position: absolute;
+}
+.dates {
+  top: 254px;
+  left: 460px;
+  border-radius: var(--br-base);
+  background-color: var(--cream-light);
+  width: 240px;
+  height: 46px;
+}
+.teach {
+  top: 0;
+  left: 499.1px;
+  letter-spacing: 0.02em;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 60.9px;
+}
+.learn {
+  top: 0;
+  left: 0;
+  width: 56.9px;
+}
+.div,
+.div1,
+.explore,
+.learn {
+  position: absolute;
+  letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+}
+.explore {
+  top: 0;
+  left: 241.6px;
+  text-align: center;
+  justify-content: center;
+  width: 75.9px;
+}
+.div,
+.div1 {
+  top: 1px;
+  left: 144.7px;
+  font-weight: 600;
+  font-family: var(--font-inter);
+  width: 8px;
+}
+.div1 {
+  left: 404.3px;
+}
+.learnExploreTeach {
+  position: absolute;
+  top: 463px;
+  left: 143px;
+  width: 557px;
+  height: 27px;
+  font-size: var(--font-size-xl);
+}
+.weInviteYou {
+  position: absolute;
+  top: 11px;
+  left: 21px;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 506px;
+}
+.arrowText,
+.arrowTextChild {
+  position: absolute;
+  top: -5.8px;
+  left: -5.8px;
+  width: 11.5px;
+  height: 90.8px;
+}
+.arrowText {
+  top: 533px;
+  left: 158px;
+  width: 527px;
+  height: 85px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-open-sans);
+}
+.scheduleChild,
+.viewSchedule {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  height: 51px;
+}
+.scheduleChild {
+  border: 1px solid var(--orange);
+  box-sizing: border-box;
+  width: 260px;
+}
+.viewSchedule {
+  border: 0;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-dm-serif-display);
+  color: var(--fg);
+  text-align: center;
+  display: inline-block;
+  width: 227px;
+  flex-shrink: 0;
+  margin-top: -42px;
+}
+.schedule {
+  position: absolute;
+  top: 653px;
+  left: 140px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.registerChild,
+.registerNow {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.registerChild {
+  background-color: var(--orange);
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 51px;
+}
+.registerNow {
+  background-color: transparent;
+  top: 9px;
+  left: 22px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-dm-serif-display);
+  color: var(--bg);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 215.4px;
+  height: 33px;
+}
+.register {
+  position: absolute;
+  top: 653px;
+  left: 440px;
+  width: 260px;
+  height: 51px;
+}
+.hackknack {
+  margin: 0;
+  position: absolute;
+  top: 300px;
+  left: 140px;
+  font-size: var(--font-size-77xl);
+  letter-spacing: -0.01em;
+  font-weight: 700;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 576px;
+  color: var(--orange-dark);
+}
+.megaCreator1Icon {
+  position: absolute;
+  top: calc(50% - 246.5px);
+  left: 742px;
+  width: 558px;
+  height: 492px;
+  object-fit: cover;
+}
+.layoutChild,
+.layoutInner,
+.layoutItem,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-red);
+  box-sizing: border-box;
+  width: 140px;
+  height: 1001px;
+}
+.layoutInner,
+.layoutItem,
+.rectangleDiv {
+  left: 1300px;
+}
+.layoutInner,
+.rectangleDiv {
+  top: 876px;
+  left: 0;
+  width: 1440px;
+  height: 120px;
+}
+.rectangleDiv {
+  top: 0;
+}
+.layout,
+.layoutChild1 {
+  position: absolute;
+  top: 0;
+  height: 1001px;
+}
+.layoutChild1 {
+  left: 700px;
+  border: 1px solid var(--color-red);
+  box-sizing: border-box;
+  width: 561px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.layout {
+  left: 0;
+  width: 1440px;
+  display: none;
+}
+.desktop1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1001px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--fg);
+  font-family: var(--font-dm-serif-display);
+}
